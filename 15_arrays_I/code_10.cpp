@@ -98,3 +98,8 @@ int main()
     cout << find_no << " is at "<< binary_search(arr,n, find_no) << ". " << endl;
     return 0;
 }
+
+// git remote add origin https://github.com/roboholic-harsh/CPP-DSA.git
+// git branch -M main
+// git push -u origin main
+
