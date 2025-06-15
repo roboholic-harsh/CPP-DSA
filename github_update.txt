@@ -1,0 +1,12 @@
+to update repositary
+
+git add .
+git commit -m "Your message about what changed"
+git push
+
+
+to see changes
+(before commiting)
+
+git status         # shows new/modified/deleted files
+git diff           # shows the actual changes in code
