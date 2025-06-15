@@ -5,11 +5,11 @@ git commit -m "Your message about what changed"
 git push
 
 
-to see changes
+* to see changes *
 (before commiting)
 
-git status
-- shows new/modified/deleted files
+    git status
+    - shows new/modified/deleted files
 
-git diff           
-- shows the actual changes in code
+    git diff           
+    - shows the actual changes in code
