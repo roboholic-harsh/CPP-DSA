@@ -13,3 +13,21 @@ git push
 
     git diff           
     - shows the actual changes in code
+
+
+"""
+Function Name: function_name
+
+Description:
+    - What this function does (brief and clear).
+    - If needed, explain how it works in simple terms.
+
+Time Complexity:
+    - O(n), O(1), etc. (Give reasoning if helpful)
+
+Remarks:
+    - Any special notes, assumptions, or limitations.
+
+Example:
+    - function_name(3, 5) => 8
+"""
