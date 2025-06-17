@@ -3,6 +3,8 @@
 #include<iostream>
 using namespace std;
 
+
+// time complexicity : O(n)
 int linear_search(int *arr, int size, int key)
 {
     for(int i = 0; i < size; i++)
@@ -48,6 +50,8 @@ void reverse_arr_with_extra_space(int arr[],int n)
     }
 }
 
+// time complexicity :  O(log   (n) )
+//                            2
 int binary_search(int arr[], int size, int key)
 {
     int n_max = size;

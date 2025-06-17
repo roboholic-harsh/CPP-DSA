@@ -1,7 +1,7 @@
 to update repositary
 
 git add .
-git commit -m "Your message about what changed"
+git commit -m "changed on 17-06-2025 for learning purpose"
 git push
 
 
