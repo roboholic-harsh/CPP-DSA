@@ -15,7 +15,9 @@ git push
     - shows the actual changes in code
 
 
-"""
+
+fuction discriptions
+/*
 Function Name: function_name
 
 Description:
@@ -30,4 +32,4 @@ Remarks:
 
 Example:
     - function_name(3, 5) => 8
-"""
+*/
