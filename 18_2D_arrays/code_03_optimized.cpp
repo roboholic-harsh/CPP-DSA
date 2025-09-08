@@ -71,6 +71,7 @@ void diagonal_sum(int arr[][3], int n)// givwen m = n
     cout  << " sum : "<< sum << endl;
 }
 
+// search in sorted metrix
 void search(int arr[][4], int n, int m, int key)
 {
     int i = 0, j = m - 1;
